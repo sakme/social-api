@@ -35,7 +35,7 @@ const ThoughtSchema = new Schema(
             required: 'Text is required.',
             trim: true,
             min: [1, 'Too few characters'],
-            max: [280, 'Maximum is 280 characters']
+            max: [280]
         },
         username: {
             type: String,

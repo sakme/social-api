@@ -26,7 +26,8 @@ The Social API is a backend Express app using MongoDB, Node, and Mongoose. The A
 
 1. Open bash and run "npm start" to launch the back end on your localhost.
 
-[Walkthrough Video](https://drive.google.com/file/d/1l4tz-5zuO0CljXXJ5GJl6u--avbefCep/view)
+[Walkthrough Video Part 1](https://drive.google.com/file/d/1l4tz-5zuO0CljXXJ5GJl6u--avbefCep/view)  
+[Walkthrough Video Part 2](https://drive.google.com/file/d/1OExDACh3AgbUpdf7z3H1piCOXG7W9ewN/view)
 
 ## License
 
